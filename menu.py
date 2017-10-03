@@ -42,7 +42,7 @@ for child in root:
 print('')
 
 #another way of reading( et.parse )
-#for short I won't iterate through menu children but print only root tag
+#I won't iterate through menu children but print only root tag
 
 from xml.etree.ElementTree import parse
 
